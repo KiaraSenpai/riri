@@ -1,0 +1,12 @@
+{
+  "status": "true",
+  "results": {
+    "name": "gempa",
+    "aliases": "-",
+    "category": "Utilitas",
+    "desc": "Mendapatkan informasi tentang gempa baru-baru ini",
+    "usage": "gempa",
+    "example": "gempa",
+    "cooldown": "3s"
+  }
+}

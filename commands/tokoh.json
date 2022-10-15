@@ -1,0 +1,12 @@
+{
+  "status": "true",
+  "results": {
+    "name": "tokoh",
+    "aliases": "-",
+    "category": "Utilitas",
+    "desc": "Mendapatkan random seputar informasi tokoh penting Indonesia",
+    "usage": "tokoh",
+    "example": "tokoh",
+    "cooldown": "5s"
+  }
+}

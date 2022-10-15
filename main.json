@@ -1,0 +1,12 @@
+{
+  "results": {
+    "name": "Skipper",
+    "desc": "adalah bot Indonesia yang dibuat untuk mencukupi berbagai kebutuhan pengguna Discord",
+    "info": "help, botinfo, serverinfo, userinfo, invite, ping",
+    "fun": "bijak, caklontong, chatbot, pakboy",
+    "games": "pokeguess",
+    "anime": "anime, maid, manga, uniform, waifu",
+    "utility": "avatar, berita, emoji, gempa, kbbi, pinterest, snipe, tokoh",
+    "admin": "ban, kick, prefix, timeout"
+  }
+}

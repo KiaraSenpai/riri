@@ -3,10 +3,10 @@
     "name": "Riri",
     "desc": "adalah bot Indonesia yang dibuat untuk mencukupi berbagai kebutuhan pengguna Discord",
     "info": "help, botinfo, serverinfo, userinfo, invite, ping",
-    "fun": "bijak, caklontong, chatbot, pakboy",
-    "games": "pokeguess",
+    "fun": "bijak, caklontong, chatbot, pakboy, hoki, tafsirmimpi, quotes",
+    "games": "pokeguess, asahotak, siapaaku, tebakgambar",
     "anime": "anime, maid, manga, uniform, waifu",
-    "utility": "avatar, berita, emoji, gempa, kbbi, pinterest, snipe, tokoh",
+    "utility": "avatar, berita, emoji, gempa, kbbi, pinterest, snipe, tokoh, brainly, covid, cuaca, google",
     "admin": "ban, kick, prefix, timeout"
   }
 }

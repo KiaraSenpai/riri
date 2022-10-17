@@ -6,8 +6,8 @@
     "fun": "bacotanunfaedah, bijak, caklontong, chatbot, hoki, nickff, pakboy, quotes, tafsirmimpi",
     "games": "pokeguess, asahotak, siapaaku, tebakgambar, tebaklirik, tebaktebakan",
     "anime": "anime, maid, anime quotes, uniform, waifu, selfie, ppcouple",
-    "utility": "avatar, berita, brainly, covid, cuaca, emoji, gempa, kbbi, resep, snipe, tokoh, turnbackhoax. uptime",
-    "moderation": "ban, kick, prefix, timeout",
+    "utility": "avatar, berita, brainly, covid, cuaca, emoji, gempa, kbbi, mc, resep, tokoh, uptime",
+    "moderation": "addrole, ban, clear, kick, lock, lockall, mute, setprefix, tempban, tempcmute, temprole, unban, uncmute, unlock, unlockall",
     "penyegaran": "bocil, cecan, hijab, ukhty",
     "search": "google, pinterest"
   }
